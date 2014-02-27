@@ -18,7 +18,17 @@
         "sensio/distribution-bundle": "~2.3",
         "sensio/framework-extra-bundle": "~2.3",
         "sensio/generator-bundle": "~2.3",
-        "incenteev/composer-parameter-handler": "~2.0"
+        "incenteev/composer-parameter-handler": "~2.0",
+        "uecode/qpush-bundle": "dev-master",
+        "uecode/image-bundle": "dev-master",
+        "uecode/api-key-bundle": "dev-master",
+        "uecode/gearman-bundle": "dev-master",
+        "uecode/daemon-bundle": "dev-master",
+        "uecode/common-bundle": "dev-master",
+        "uecode/amazon-bundle": "dev-master",
+        "uecode/uecode-bundle": "dev-master",
+        "uecode/uecode": "dev-master",
+        "aequasi/cache-bundle": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [
